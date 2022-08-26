@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Monitor the performance of your ethereum consensus staking pool. Just input the withdrawal credential(s) or wallet address(es) that was used in the deposit contract and the network you want to run. This will be used to identify your validators. Some of the parameters that are monitored:
+Monitor the performance of your Ethereum consensus staking pool. Just input the withdrawal credential(s) or wallet address(es) used in the deposit contract and the network you want to run. This will be used to identify your validators. Some of the parameters that are monitored:
 * Deposited Eth and rewards
 * Rates of faulty head/source/target votes (see GASPER algorithm)
 * Delta in rewards/penalties between consecutive epochs
